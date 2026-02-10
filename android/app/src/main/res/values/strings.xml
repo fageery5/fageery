@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">EmpManager</string>
+    <string name="title_activity_main">EmpManager</string>
+    <string name="package_name">com.empmanager.app</string>
+    <string name="custom_url_scheme">com.empmanager.app</string>
+</resources>
